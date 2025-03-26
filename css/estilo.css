@@ -1,0 +1,17 @@
+.center {
+    text-align: center;
+}
+
+.azul {
+    color: blue;
+}
+
+p {
+    font-family: "Verdana";
+}
+
+#nome {
+    text-align: center;
+    color: blue;
+    background: none;
+}
