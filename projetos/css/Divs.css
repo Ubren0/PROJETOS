@@ -1,0 +1,33 @@
+ol{
+    list-style-type: upper-alpha;
+}
+
+
+.center {
+    text-align: center;
+}
+
+
+div, ol, ul {
+    background-color: #ffffff8e;
+}
+
+
+h1 {
+    background-color: gray;
+    transition: background-color 1.5s ease;
+}
+
+
+h1:hover {
+    background-color: darkgray;
+}
+
+.minhadiv {
+    border: 2px dashed black; 
+    background-color: #f0f0f0;
+    text-align: center; 
+    padding: 0%; 
+    margin: 0%;
+}
+
